@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jenks.guo/Documents/GitHub/Xero-API/xero-netstandard-oauth2-starter-dotnet-core/XeroNetStandardApp/XeroNetStandardApp.csproj": {}
+    "C:\\Develop1\\XeroNetStandardApp\\XeroNetStandardApp.csproj": {}
   },
   "projects": {
-    "/Users/jenks.guo/Documents/GitHub/Xero-API/xero-netstandard-oauth2-starter-dotnet-core/XeroNetStandardApp/XeroNetStandardApp.csproj": {
+    "C:\\Develop1\\XeroNetStandardApp\\XeroNetStandardApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jenks.guo/Documents/GitHub/Xero-API/xero-netstandard-oauth2-starter-dotnet-core/XeroNetStandardApp/XeroNetStandardApp.csproj",
+        "projectUniqueName": "C:\\Develop1\\XeroNetStandardApp\\XeroNetStandardApp.csproj",
         "projectName": "XeroNetStandardApp",
-        "projectPath": "/Users/jenks.guo/Documents/GitHub/Xero-API/xero-netstandard-oauth2-starter-dotnet-core/XeroNetStandardApp/XeroNetStandardApp.csproj",
-        "packagesPath": "/Users/jenks.guo/.nuget/packages/",
-        "outputPath": "/Users/jenks.guo/Documents/GitHub/Xero-API/xero-netstandard-oauth2-starter-dotnet-core/XeroNetStandardApp/obj/",
+        "projectPath": "C:\\Develop1\\XeroNetStandardApp\\XeroNetStandardApp.csproj",
+        "packagesPath": "C:\\Users\\Booking\\.nuget\\packages\\",
+        "outputPath": "C:\\Develop1\\XeroNetStandardApp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/jenks.guo/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Booking\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -38,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.AspNetCore.Session": {
               "target": "Package",
@@ -70,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
